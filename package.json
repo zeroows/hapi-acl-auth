@@ -23,18 +23,18 @@
     "auth"
   ],
   "dependencies": {
-    "boom": "^7.1.1",
-    "debug": "^3.1.0",
-    "deep-extend": "^0.5.0",
-    "joi": "^13.1.1",
-    "lodash": "^4.17.4",
-    "lru-cache": "^4.1.1",
-    "type-detect": "^4.0.7"
+    "@hapi/boom": "^9.1.1",
+    "debug": "^4.3.1",
+    "deep-extend": "^0.6.0",
+    "joi": "^17.4.0",
+    "lodash": "^4.17.20",
+    "lru-cache": "^6.0.0",
+    "type-detect": "^4.0.8"
   },
   "devDependencies": {
-    "chai": "^4.1.2",
-    "hapi": "^17.2.0",
-    "mocha": "^5.0.0",
+    "@hapi/hapi": "^20.1.0",
+    "chai": "^4.3.0",
+    "mocha": "^8.2.1",
     "pre-commit": "^1.2.2",
     "request": "^2.83.0"
   },
