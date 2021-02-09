@@ -1,11 +1,9 @@
 
-[![Build Status](https://travis-ci.org/charlesread/hapi-acl-auth.svg?branch=master)](https://travis-ci.org/charlesread/hapi-acl-auth)
-
 
 ----------
 
 
-**IMPORTANT: Please see [this issue](https://github.com/charlesread/hapi-acl-auth/issues/6).**
+**IMPORTANT: This version is working with updaed Dependencies.**
 
 
 ----------
