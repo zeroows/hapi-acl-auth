@@ -50,7 +50,7 @@
     "test"
   ],
   "optionalDependencies": {
-    "hapi-auth-basic": "^5.0.0",
+    "@hapi/basic": "^6.0.0",
     "marko": "^4.7.5"
   }
 }
